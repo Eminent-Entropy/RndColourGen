@@ -1,0 +1,13 @@
+c:\users\gerbster\documents\visual studio 2015\Projects\RndColourGen\RndColourGen\bin\Debug\RndColourGen.exe.config
+c:\users\gerbster\documents\visual studio 2015\Projects\RndColourGen\RndColourGen\bin\Debug\RndColourGen.exe
+c:\users\gerbster\documents\visual studio 2015\Projects\RndColourGen\RndColourGen\bin\Debug\RndColourGen.pdb
+c:\users\gerbster\documents\visual studio 2015\Projects\RndColourGen\RndColourGen\obj\Debug\RndColourGen.csprojResolveAssemblyReference.cache
+c:\users\gerbster\documents\visual studio 2015\Projects\RndColourGen\RndColourGen\obj\Debug\RndColourGen.Form1.resources
+c:\users\gerbster\documents\visual studio 2015\Projects\RndColourGen\RndColourGen\obj\Debug\RndColourGen.Properties.Resources.resources
+c:\users\gerbster\documents\visual studio 2015\Projects\RndColourGen\RndColourGen\obj\Debug\RndColourGen.csproj.GenerateResource.Cache
+c:\users\gerbster\documents\visual studio 2015\Projects\RndColourGen\RndColourGen\obj\Debug\RndColourGen.exe
+c:\users\gerbster\documents\visual studio 2015\Projects\RndColourGen\RndColourGen\obj\Debug\RndColourGen.pdb
+c:\users\gerbster\documents\visual studio 2015\Projects\RndColourGen\RndColourGen\bin\Debug\RndColourGen.exe.manifest
+c:\users\gerbster\documents\visual studio 2015\Projects\RndColourGen\RndColourGen\bin\Debug\RndColourGen.application
+c:\users\gerbster\documents\visual studio 2015\Projects\RndColourGen\RndColourGen\obj\Debug\RndColourGen.exe.manifest
+c:\users\gerbster\documents\visual studio 2015\Projects\RndColourGen\RndColourGen\obj\Debug\RndColourGen.application
